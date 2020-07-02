@@ -1,0 +1,38 @@
+---
+title: "**Making Websites in R**"
+subtitle: 
+author: "Delaney Glass and Ben Marwick"
+institute: "University of Washington, Seattle, WA"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css: ["metropolis", "rladies", "rladies-fonts"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+class: center, middle
+
+#**Stay in Touch**
+
+<a href="mailto:dglass1@uw.edu"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; dglass1@uw.edu</a><br>
+<a href="http://twitter.com/GlassDelaneyl"><i class="fa fa-twitter fa-fw"></i>&nbsp; @GlassDelaney</a><br>
+
+---
+class: inverse, center, middle
+
+#**Let's get started!**
+
+---
+
+
+--
+
+
+
