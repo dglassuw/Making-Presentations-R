@@ -16,13 +16,15 @@ output:
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
+library(fontawesome)
 ```
 class: center, middle
 
 #**Stay in Touch**
 
-<a href="mailto:dglass1@uw.edu"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; dglass1@uw.edu</a><br>
-<a href="http://twitter.com/GlassDelaneyl"><i class="fa fa-twitter fa-fw"></i>&nbsp; @GlassDelaney</a><br>
+
+[`r fa(name = "paper-plane")` dglass1@uw.edu](mailto:dglass1@uw.edu)    
+[`r fa(name = "twitter")` @GlassDelaney](http://twitter.com/GlassDelaney) 
 
 ---
 background-image: url(https://p0.piqsels.com/preview/750/797/301/business-women-collaborate-collaboration-cooperation.jpg)
