@@ -25,7 +25,9 @@ class: center, middle
 <a href="http://twitter.com/GlassDelaneyl"><i class="fa fa-twitter fa-fw"></i>&nbsp; @GlassDelaney</a><br>
 
 ---
-class: inverse, center, middle
+background-image: url(https://p0.piqsels.com/preview/750/797/301/business-women-collaborate-collaboration-cooperation.jpg)
+
+class: inverse, left, top
 
 #**Let's get started!**
 
